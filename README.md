@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+My name is Maximiliano Lazo. I live in Argentinian. I have 24 years old
+I am a technician in software analysis and design 😄
+Technologies I use for software development:
+-JAVA
+-VB6
+-MYSQL
+-SQL
+-HTML
+-CSS
+-JAVASCRIPT
+-BOOTSTRAP
 <!--
 **MaximilianoLazo/MaximilianoLazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
