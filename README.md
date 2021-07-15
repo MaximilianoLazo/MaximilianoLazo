@@ -1,8 +1,10 @@
 ### Hi there 👋
-My name is Maximiliano Lazo. I live in Argentinian. I have 24 years old
+My name is Maximiliano Lazo. I live in Argentinian. I have 25 years old
 I am a technician in software analysis and design 😄
 Technologies I use for software development:
 -JAVA
+-JPA
+-JSP
 -VB6
 -MYSQL
 -SQL
